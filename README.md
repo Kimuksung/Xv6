@@ -1,3 +1,4 @@
+
 # XV6
 
 How to run Scheduling in XV6?
@@ -13,14 +14,13 @@ How to run Scheduling in XV6?
 I discuss xv6 default option.
 
 [Description](https://dortmoot.tistory.com/27)
-<br/>
-XV6's isolation unit is process.
-<br/>
-<br/>
-Kernel support isolation with user, kernel mode / address space / time-slicing thread.
-<br/>
-This is why processes have own's process ( docker container or Linux Container is same ) 
-<br/>
-Page table support process's address space with identity.
+
+ - XV6's isolation unit is process.
+ - Kernel support isolation with user, kernel mode / address space /
+   time-slicing thread.
+ - This is why processes have own's process ( docker container or Linux
+   Container is same )
+ - Page table support process's address space with identity.
+
 <br/>
 If you use Thread concept, you have to use Pthread(Posix Thread)
