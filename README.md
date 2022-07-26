@@ -1,7 +1,9 @@
 
 # XV6
+What is XV6?
+XV6 is MIT OS(Program to help student)
 
-How to run Scheduling in XV6?
+How to start XV6 and to run Scheduling in XV6?
 
 [Description](https://dortmoot.tistory.com/28)
 
@@ -24,3 +26,16 @@ I discuss xv6 default option.
 
 <br/>
 If you use Thread concept, you have to use Pthread(Posix Thread)
+
+# OS 
+[Description](https://dortmoot.tistory.com/category/CS/OS)
+
+1. What is OS?
+2. History OS
+3. Daul Mode(Kernel,User) / System call 
+4. What is Process?
+5. Process Scheduling
+6. What is Thread?
+7. Posix Thread(Pthread)
+8. Virtual Memory
+9. Shared Memory , COW , Memory mapped file / Paging Algorithm
