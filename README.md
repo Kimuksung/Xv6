@@ -1,21 +1,21 @@
 
 # XV6
-What is XV6?
-XV6 is MIT OS(Program to help student)
+## What is XV6?
 
-How to start XV6 and to run Scheduling in XV6?
+> XV6 is MIT OS(Program to help student)
 
-[Description](https://dortmoot.tistory.com/28)
+### How to start XV6 and to run Scheduling in XV6?
+
+> [Description](https://dortmoot.tistory.com/28)
 
 1. booting - bootasm.S
 2. Create first-userlevel Process - Main.c
 3. First Process init proc strucutre and kernel stack - Userinit Function
 4. Scheduling( if you don't change Round Robin )
 
-<br/>
-I discuss xv6 default option.
+### xv6 default option
 
-[Description](https://dortmoot.tistory.com/27)
+> [Description](https://dortmoot.tistory.com/27)
 
  - XV6's isolation unit is process.
  - Kernel support isolation with user, kernel mode / address space /
@@ -28,7 +28,7 @@ I discuss xv6 default option.
 If you use Thread concept, you have to use Pthread(Posix Thread)
 
 # OS 
-[Description](https://dortmoot.tistory.com/category/CS/OS)
+> [Description](https://dortmoot.tistory.com/category/CS/OS)
 
 1. What is OS?
 2. History OS
